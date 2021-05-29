@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BBK_login_form/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/BBK_login_form/static/js/main.a692289a.chunk.js",
-    "main.js.map": "/BBK_login_form/static/js/main.a692289a.chunk.js.map",
-    "runtime-main.js": "/BBK_login_form/static/js/runtime-main.f1390895.js",
-    "runtime-main.js.map": "/BBK_login_form/static/js/runtime-main.f1390895.js.map",
-    "static/js/2.8212ab6d.chunk.js": "/BBK_login_form/static/js/2.8212ab6d.chunk.js",
-    "static/js/2.8212ab6d.chunk.js.map": "/BBK_login_form/static/js/2.8212ab6d.chunk.js.map",
-    "static/js/3.ce3ad00c.chunk.js": "/BBK_login_form/static/js/3.ce3ad00c.chunk.js",
-    "static/js/3.ce3ad00c.chunk.js.map": "/BBK_login_form/static/js/3.ce3ad00c.chunk.js.map",
+    "main.css": "/BBK_login_form/static/css/main.3711dc4f.chunk.css",
+    "main.js": "/BBK_login_form/static/js/main.554604ed.chunk.js",
+    "main.js.map": "/BBK_login_form/static/js/main.554604ed.chunk.js.map",
+    "runtime-main.js": "/BBK_login_form/static/js/runtime-main.7a3027f5.js",
+    "runtime-main.js.map": "/BBK_login_form/static/js/runtime-main.7a3027f5.js.map",
+    "static/js/2.704ef4af.chunk.js": "/BBK_login_form/static/js/2.704ef4af.chunk.js",
+    "static/js/2.704ef4af.chunk.js.map": "/BBK_login_form/static/js/2.704ef4af.chunk.js.map",
+    "static/js/3.b695b50f.chunk.js": "/BBK_login_form/static/js/3.b695b50f.chunk.js",
+    "static/js/3.b695b50f.chunk.js.map": "/BBK_login_form/static/js/3.b695b50f.chunk.js.map",
     "index.html": "/BBK_login_form/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/BBK_login_form/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.8212ab6d.chunk.js.LICENSE.txt": "/BBK_login_form/static/js/2.8212ab6d.chunk.js.LICENSE.txt",
+    "static/css/main.3711dc4f.chunk.css.map": "/BBK_login_form/static/css/main.3711dc4f.chunk.css.map",
+    "static/js/2.704ef4af.chunk.js.LICENSE.txt": "/BBK_login_form/static/js/2.704ef4af.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/BBK_login_form/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1390895.js",
-    "static/js/2.8212ab6d.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.a692289a.chunk.js"
+    "static/js/runtime-main.7a3027f5.js",
+    "static/js/2.704ef4af.chunk.js",
+    "static/css/main.3711dc4f.chunk.css",
+    "static/js/main.554604ed.chunk.js"
   ]
 }
